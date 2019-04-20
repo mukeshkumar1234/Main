@@ -40,6 +40,7 @@ public class Customer1 {
 		// TODO Auto-generated method stub
        Customer1 cust=new Customer1(1,"subash","subash@gmail");
        System.out.println(cust.id+" "+cust.name+" "+cust.email);
+       System.out.println("SSSS");
 	}
 
 }
